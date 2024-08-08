@@ -21,5 +21,5 @@
 ---
 <div float="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=winsara-ja&&theme=dark&hide_border=false&show_icons=true&locale=en" alt="winsara-ja" />
-  <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=winsara-ja&theme=dark&hide_border=false" />
+  <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=winsara-ja&theme=dark&hide_border=true" />
 </div>
