@@ -21,6 +21,7 @@ I'm a Software Enginnering student at SLIIT currently studing at 3rd year. I bui
 <a href="https://linkedin.com/in/jayana winsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayana winsara" height="30" width="40" /></a>
 </p>
 
+<div style="margin-bottom:30px">
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" alt="Java" width="50px" style="padding-right:10px; margin-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="Java" width="50px" style="padding-right:10px; margin-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -39,10 +40,11 @@ I'm a Software Enginnering student at SLIIT currently studing at 3rd year. I bui
 <img align="left" alt="Java" width="60px" style="padding-right:10px; margin-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
 <img align="left" alt="Java" width="60px" style="padding-right:10px; margin-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Java" width="50px" style="padding-right:10px; margin-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+</div>
 
 <div style="width:100%; height:30px"></div>
 
-
+<p>&nbsp;<div style="width:100% margin-bottom:20px"><img src="https://github-readme-stats.vercel.app/api?username=winsara-ja&theme=algolia&show_icons=true&locale=en" alt="winsara-ja" /></div></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=winsara-ja&" alt="winsara-ja" /></p>
 <br>
 
