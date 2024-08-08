@@ -17,11 +17,11 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-
-<p><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=winsara-ja&theme=algolia&show_icons=true&locale=en" alt="winsara-ja" /></p>
-<div align="right">
+<div>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=winsara-ja&theme=algolia&show_icons=true&locale=en" alt="winsara-ja" />
   <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=winsara-ja&theme=algolia&background=0d1117&hide_border=true" />
- </div>
+</div>
+
 
 
 
