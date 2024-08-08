@@ -40,13 +40,10 @@
 <img align="left" alt="Java" width="60px" style="padding-right:10px; margin-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
 <img align="left" alt="Java" width="60px" style="padding-right:10px; margin-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Java" width="50px" style="padding-right:10px; margin-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-<br/>
 
-##
 
 <p>&nbsp;<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=winsara-ja&theme=algolia&show_icons=true&locale=en" alt="winsara-ja" /></p>
 <p><img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=winsara-ja&" alt="winsara-ja" /></p>
-<br/>
 
 <img align="right" width="50%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
