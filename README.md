@@ -12,7 +12,8 @@
 
 **`Digital Craftsman (Developer/Web Designer/Moblie App Develpoer)`**
 
-I'm a Software Enginnering student at SLIIT currently studing at 3rd year. I build web sites and create moblie applications
+<p align="left">I'm a Software Enginnering student at SLIIT currently studing at 3rd year. I build web sites and create moblie applications</p>
+<img align="right" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMxMzA3MzEsIm5iZiI6MTcyMzEzMDQzMSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA4VDE1MjAzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ2YTg0ZGQxMTFlNjdmODlmNTBiNDA3ODVhNDI2NzcyZmVmNzJiZWI1NjgzMWNkMGY5NjczMDVkMGFlMDgzODEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ll8P9ro6g2D9h9rKvvnKHR_xqNHNt0AdxGVxoaqTe94">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winsara-ja&label=Profile%20views&color=0e75b6&style=flat" alt="winsara-ja" /> </p>
 
