@@ -47,5 +47,5 @@ I'm a Software Enginnering student at SLIIT currently studing at 3rd year. I bui
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=winsara-ja&" alt="winsara-ja" /></p>
 <br/>
 
-<img align="left" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="left" width="140px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
