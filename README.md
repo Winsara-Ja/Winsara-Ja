@@ -6,8 +6,6 @@ I'm a Software Enginnering student at SLIIT currently studing at 3rd year. I bui
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winsara-ja&label=Profile%20views&color=0e75b6&style=flat" alt="winsara-ja" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=winsara-ja" alt="winsara-ja" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jayana winsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayana winsara" height="30" width="40" /></a>
