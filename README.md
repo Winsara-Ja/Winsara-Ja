@@ -42,7 +42,7 @@ I'm a Software Enginnering student at SLIIT currently studing at 3rd year. I bui
 
 <div style="width:100%; height:30px"></div>
 
-<p>&nbsp;<div style="width:100% margin-bottom:20px"><img src="https://github-readme-stats.vercel.app/api?username=winsara-ja&theme=algolia&show_icons=true&locale=en" alt="winsara-ja" /></div></p>
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=winsara-ja&" alt="winsara-ja" /></p>
 <br>
 
