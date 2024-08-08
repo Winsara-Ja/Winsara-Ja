@@ -40,8 +40,9 @@ I'm a Software Enginnering student at SLIIT currently studing at 3rd year. I bui
 <img align="left" alt="Java" width="60px" style="padding-right:10px; margin-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Java" width="50px" style="padding-right:10px; margin-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 
+<div style="width:100%; height:30px"></div>
 
-<p>&nbsp;<div style="width:100%"><img align="left" src="https://github-readme-stats.vercel.app/api?username=winsara-ja&theme=algolia&show_icons=true&locale=en" alt="winsara-ja" /></div></p>
+<p>&nbsp;<div style="width:100% margin-bottom:20px"><img align="left" src="https://github-readme-stats.vercel.app/api?username=winsara-ja&theme=algolia&show_icons=true&locale=en" alt="winsara-ja" /></div></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=winsara-ja&" alt="winsara-ja" /></p>
 <br>
 
