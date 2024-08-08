@@ -20,10 +20,6 @@
 
 ---
 <div float="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=winsara-ja&theme=algolia&show_icons=true&locale=en" alt="winsara-ja" />
-  <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=winsara-ja&theme=algolia&background=0d1117&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=winsara-ja&&theme=dark&hide_border=false&show_icons=true&locale=en" alt="winsara-ja" />
+  <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=winsara-ja&theme=dark&hide_border=false" />
 </div>
-
-
-
-
